@@ -11,6 +11,26 @@
 
 ---
 
+### 💼 Professional Experience
+**Associate – Thomson Reuters**  
+- Contributed to reporting, analytical content, and **data quality assurance**
+- Supported **business analysis** through data modeling and visualization
+- Collaborated with **cross-functional teams**, gaining strong foundations in business analysis concepts
+
+---
+
+### 🎓 Education & Certifications
+- **MBA in Finance & HR** – JNTU Anantapur  
+- Certifications in:
+  - Advanced **Excel**
+  - **Data-Driven Decision Making**
+  - **Microsoft Copilot for Productivity**
+
+Focused on upskilling in **data visualization, storytelling, and DAX**, aligning with a growing interest in **data analysis and business intelligence**.
+
+
+---
+
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/charitha-h-9862943a3/)
 
