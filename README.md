@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm Charitha Hotur  
 
-<!--
-**hcharitha19/hcharitha19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst  
 
-Here are some ideas to get you started:
+👀 **Profile Views**  
+![Profile Views](https://komarev.com/ghpvc/?username=hcharitha19&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently building projects using **Power BI, Excel, SQL, and Data Modeling**  
+📊 Passionate about creating **end-to-end dashboards** and turning data into insights  
+📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/charitha-h-9862943a3/)**  
+
+---
+
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/charitha-h-9862943a3/)
+
+---
+
+### 🛠 Languages & Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)
+![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql)
+![Data Modeling](https://img.shields.io/badge/Data-Modeling-lightgrey)
+
+
