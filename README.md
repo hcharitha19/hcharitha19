@@ -22,7 +22,7 @@
 ### 🎓 Education & Certifications
 - **MBA in Finance & HR** – JNTU Anantapur  
 - Certifications in:
-  - Advanced **Excel**
+  - Certified Codebasics Advanced **Excel** and **Power BI** 
   - **Data-Driven Decision Making**
   - **Microsoft Copilot for Productivity**
 
